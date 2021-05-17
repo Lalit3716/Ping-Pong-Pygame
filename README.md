@@ -1,5 +1,5 @@
 # Ping Pong
-#### **Please Download All Files** , otherwise game may not run.
+#### **Please Download All Files** , otherwise game may not run. After downloading all files place all files in a single folder and open ping_pong.py and Enjoy 😄. 
 # Description Of Game
 <ul>
   <li>This Is A Two-Player Game.</li>
